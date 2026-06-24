@@ -115,3 +115,5 @@ tool (
 	github.com/maxbrunsfeld/counterfeiter/v6
 	golang.org/x/tools/cmd/goimports
 )
+
+replace github.com/wlynxg/anet => ./anet-patched
